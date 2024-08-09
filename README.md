@@ -3,7 +3,7 @@
 <button id="myButton">Unimontes</button>
 
 <script>
- document.getElementById("myButton").onClick = function() {
+ document.getElementById("myButton").onclick = function() {
   window.location.href = "https://unimontes.br/";
  }
 </script>
